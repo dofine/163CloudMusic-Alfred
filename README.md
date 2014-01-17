@@ -11,4 +11,4 @@ Usage:
 
 Spaces in the song title are not needed(supported).
 
-![Screenshot](../blob/master/screenshot.png?raw=true)
+![Screenshot](../master/screenshot.png?raw=true)
