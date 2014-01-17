@@ -10,3 +10,5 @@ Usage:
 163 songtitle
 
 Spaces in the song title are not needed(supported).
+
+![Screenshot](../blob/master/screenshot.png?raw=true)
